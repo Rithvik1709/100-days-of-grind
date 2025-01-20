@@ -10,48 +10,6 @@ Welcome to my **100 Days of DSA (Data Structures and Algorithms)** challenge! Th
 
 On Day 00, we start by strengthening the fundamental aspect of DSA: **Pattern Building**.
 
-### What is Pattern Building?
-
-Pattern building is the ability to recognize common structures and patterns within problems. It's a key skill that helps you quickly devise efficient solutions and understand how algorithms work. The focus is on identifying recurring themes in problem-solving and practicing them.
-
-### Tips for Logic Building
-
-Here are some tips to improve your problem-solving skills and logic-building capabilities:
-
-1. **Understand the Problem**:
-   - Read the problem statement multiple times.
-   - Break it down into smaller parts.
-   - Visualize the problem through examples or diagrams.
-
-2. **Identify the Pattern**:
-   - Start by solving basic problems with loops, recursion, or brute force.
-   - Look for repeated patterns in problems (e.g., array manipulation, matrix traversal, searching, sorting).
-   - Practice recognizing common patterns, such as:
-     - Sliding window
-     - Backtracking
-     - Divide and conquer
-     - Greedy algorithms
-
-3. **Practice with Simple Patterns**:
-   - Start with basic patterns like:
-     - Printing number pyramids
-     - Star patterns (triangular, square, etc.)
-     - Palindromes
-   - Gradually move on to more complex patterns as your logic improves.
-
-4. **Write Pseudocode**:
-   - Before jumping into coding, write pseudocode for the algorithm to clarify your logic.
-   - This will help in breaking the problem into smaller chunks.
-
-5. **Practice Regularly**:
-   - Consistency is key. Spend time solving problems daily and review previous solutions to spot improvements.
-   - Don't be afraid to make mistakes; they are a part of learning.
-
-6. **Debugging**:
-   - Always debug and trace your code step-by-step.
-   - Use print statements to check the flow of your algorithm.
-   - Debugging enhances your understanding of how your solution works.
-
 **Logic**: 
 1. The number of rows determines the pattern.
 2. For each row, print increasing numbers from `1` to `i`, then print decreasing numbers back to `1`.
