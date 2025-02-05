@@ -4,19 +4,19 @@
 #include <unordered_map>
 using namespace std;
 vector<int> twoSum(vector<int>& nums, int target) {
-    unordered_map<int, int> numMap; // Store number and its index
+    unordered_map<int, int> numMap; 
 
     for (int i = 0; i < nums.size(); i++) {
-        int complement = target - nums[i]; // Find the complement
+        int complement = target - nums[i]; 
 
         if (numMap.find(complement) != numMap.end()) {
-            return {numMap[complement], i}; // Return the indices if complement found
+            return {numMap[complement], i}; 
         }
 
-        numMap[nums[i]] = i; // Store current number with its index
+        numMap[nums[i]] = i; 
     }
 
-    return {}; // Should never reach here as per the problem statement
+    return {};
 }
 
 int main() {
