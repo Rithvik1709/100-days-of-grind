@@ -1,3 +1,16 @@
+/*
+ * Problem: Find the Missing Number in an Array
+ * 
+ * Given an array containing N-1 distinct numbers taken from the range 1 to N, 
+ * find the missing number in the array.
+ * 
+ * Approach:
+ * - We use the XOR operation to find the missing number.
+ * - XOR all the numbers from 1 to N.
+ * - XOR all the elements in the given array.
+ * - The missing number will be the result of XORing the above two results.
+ */
+
 #include <iostream>
 #include <vector>
 

@@ -1,3 +1,10 @@
+/*
+This program removes duplicate elements from a sorted array.
+It uses the two-pointer technique to achieve this in O(n) time complexity.
+The function `removeDuplicates` modifies the input array in place and returns the new length of the array after duplicates have been removed.
+The main function demonstrates the usage of `removeDuplicates` by removing duplicates from a sample array and printing the result.
+*/
+
 #include <iostream>
 #include <vector>
 

@@ -1,3 +1,17 @@
+/*
+ * Problem: Longest Subarray with Given Sum K
+ * 
+ * Given an array of integers and a target sum K, the task is to find the length of the longest subarray that sums to K.
+ * 
+ * Approach:
+ * - Use a prefix sum and a hash map to store the first occurrence of each prefix sum.
+ * - Traverse the array and keep updating the prefix sum.
+ * - If the prefix sum equals K, update the maximum length.
+ * - If (prefix sum - K) exists in the hash map, it means there is a subarray that sums to K.
+ * - Update the maximum length if the current subarray is longer.
+ * - Store the prefix sum in the hash map if it is not already present.
+ */
+
 #include <iostream>
 #include <vector>
 #include <unordered_map>
