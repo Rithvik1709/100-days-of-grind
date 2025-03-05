@@ -1,4 +1,4 @@
-# Day 13 - Logistic Regression & Softmax Regression
+# Day 12 - Logistic Regression & Softmax Regression
 
 ## 📝 Overview
 Logistic Regression is a classification algorithm used for binary classification tasks, while Softmax Regression is an extension for multi-class classification.

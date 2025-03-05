@@ -1,4 +1,4 @@
-# Day 14 - Decision Trees: Concept & Implementation
+# Day 13 - Decision Trees: Concept & Implementation
 
 ## 📝 Overview
 Decision Trees are supervised learning models used for both classification and regression tasks.  

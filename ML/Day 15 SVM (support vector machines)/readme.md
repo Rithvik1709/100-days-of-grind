@@ -1,4 +1,4 @@
-# Day 16 - Support Vector Machines (SVM)
+# Day 15 - Support Vector Machines (SVM)
 
 ## 📝 Overview
 Support Vector Machines (SVM) are powerful supervised learning models used for classification and regression.  

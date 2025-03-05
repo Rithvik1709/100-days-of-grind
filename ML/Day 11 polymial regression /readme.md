@@ -1,4 +1,4 @@
-# Day 12 - Polynomial Regression & Ridge/Lasso Regression
+# Day 11 - Polynomial Regression & Ridge/Lasso Regression
 
 ## 📝 Overview
 Polynomial Regression is an extension of linear regression where we fit a polynomial equation to capture non-linearity in data.  

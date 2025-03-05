@@ -1,4 +1,4 @@
-# Day 16 - Ensemble Learning: Random Forest & Gradient Boosting
+# Day 14 - Ensemble Learning: Random Forest & Gradient Boosting
 
 ## 📝 Overview
 Ensemble learning combines multiple models to improve performance.  
