@@ -6,8 +6,9 @@ This project demonstrates **Hyperparameter Tuning** techniques using **Grid Sear
 ## 📂 Folder Structure  
 ```
 hyperparameter_tuning_project/
-
+│── data/
 │   ├── synthetic_data.csv  # Generated dataset
+
 │   ├── Hyperparameter_Tuning.ipynb  # Jupyter notebook with step-by-step explanation
 │   ├── hyperparameter_tuning.py  # Python script for running Grid & Random Search
 │── README.md  # Project documentation
