@@ -1,4 +1,4 @@
-📅 Day 23: DBSCAN & Mean Shift Clustering
+📅 Day 21: DBSCAN & Mean Shift Clustering
 
 🧠 Objective
 
